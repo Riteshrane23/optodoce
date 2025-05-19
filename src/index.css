@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.gradient-border-wrapper {
+  background: linear-gradient(180deg, #FFFFFF 15.5%, #010102 45%);
+  border-radius: 9999px;
+  border-style: dashed;
+}
+
+
